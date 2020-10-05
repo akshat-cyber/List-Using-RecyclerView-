@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="hello_this_is_sub_text">Hello this is sub text</string>
+    <string name="hello_this_is_some_text_using_wrap_content">Hello this is some text using wrap content</string>
+    <string name="insert">insert</string>
+    <string name="delete">delete</string>
+</resources>
